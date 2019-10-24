@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="my_name">Liew Jie Qi</string>
+    <string name="profile_pic">Profile Picture</string>
+    <string name="profile_desc">
+        Education:\n
+        \n\tSJK (C) Tsun Jin, Kuala Lumpur\n
+        \n\tSMK Dato Lokman, Kampung Pandan\n
+        \n\tTAR UC, Kuala Lumpur\n
+        \nWorking Experience:\n
+        \n\tSale Advisor\n
+        \n\tPromoter\n
+
+    </string>
+</resources>
